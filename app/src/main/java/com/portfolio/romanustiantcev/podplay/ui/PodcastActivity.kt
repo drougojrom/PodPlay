@@ -1,7 +1,8 @@
-package com.portfolio.romanustiantcev.podplay
+package com.portfolio.romanustiantcev.podplay.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.portfolio.romanustiantcev.podplay.R
 
 class PodcastActivity : AppCompatActivity() {
 
